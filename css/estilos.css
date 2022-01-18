@@ -352,6 +352,7 @@ button:focus {
 
   .bienvenida h1{
     color: white;
+    font-size: 20px;
   }
 
   .bienvenida p{
@@ -361,7 +362,7 @@ button:focus {
 
     color: var(--hotpink);
     font-family: var(--font);
-    font-size: 3rem;
+    font-size: 15px;
     padding: 15px;
     margin-left: 20px;
     margin-right: 20px;
