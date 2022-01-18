@@ -1,0 +1,24 @@
+:root {
+
+  --font: "Archivo", sans-serif;
+  --font-display: "Archivo Narrow", sans-serif;
+
+  --orange: #f27121;
+  --ppal-color: #191A19;
+  --snd-color: rgb(0, 0, 0);
+  --font-color: white;
+  --yellow: #f7ff00;
+  --hotpink: #db36a4;
+  --gradient: linear-gradient(35deg, var(--yellow), var(--hotpink));
+}
+
+*{
+  box-sizing: border-box;
+}
+
+body {
+  margin: auto;
+  min-height: 100vh;
+  background: var(--bg);
+  font-family: var(--font);
+}
