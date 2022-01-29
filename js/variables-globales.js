@@ -13,7 +13,7 @@ var niveles = [
   {
     tarjetas: grupoTarjetas[0],
     movimientosMax: 3,
-    segundos :10
+    segundos :8
   },
   {
     tarjetas: grupoTarjetas[0].concat(grupoTarjetas[1]),
@@ -22,7 +22,7 @@ var niveles = [
   },
   {
     tarjetas: grupoTarjetas[0].concat(grupoTarjetas[1], grupoTarjetas[2]),
-    movimientosMax: 12,
+    movimientosMax: 14,
     segundos: 30
   },
   {
@@ -32,7 +32,7 @@ var niveles = [
       grupoTarjetas[3]
     ),
     movimientosMax: 25,
-    segundos: 40
+    segundos: 45
 
   },
   {
@@ -42,7 +42,7 @@ var niveles = [
       grupoTarjetas[3],
       grupoTarjetas[4]
     ),
-    movimientosMax: 60,
-    segundos: 50
+    movimientosMax: 50,
+    segundos: 55
   }
 ];
