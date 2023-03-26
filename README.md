@@ -6,7 +6,7 @@
 
 ## About the project:
 
-MemoTest with Emojis is a fun and addictive game built entirely with vanilla JavaScript. The game challenges players to test their memory and pattern recognition skills by matching pairs of emojis hidden behind a grid of cards. With colorful and expressive emojis as the main visual element, this game offers a unique and engaging user experience that is both challenging and entertaining.
+Memoji-TEST is a fun game built entirely with vanilla JavaScript. 
 
 Built with a focus on simplicity and accessibility, MemoTest with Emojis is easy to play and can be enjoyed by users of all ages and skill levels. The game features different levels of difficulty, ranging from easy to hard, to keep players engaged and challenged as they progress through the game.
 
